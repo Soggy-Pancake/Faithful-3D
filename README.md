@@ -9,6 +9,11 @@
 
 ## September
 
+### November 20th
+
+- Updated:
+  - Iron ore
+
 ### September 30th
 
 - Added:
