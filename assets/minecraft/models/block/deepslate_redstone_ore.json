@@ -1,0 +1,8 @@
+{
+	"credit": "Made by Soggy_Pancake",
+	"parent": "block/redstone_ore",
+	"textures": {
+		"0": "block/deepslate_redstone_ore",
+		"particle": "block/deepslate_redstone_ore"
+	}
+}
