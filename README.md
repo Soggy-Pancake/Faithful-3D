@@ -7,12 +7,19 @@
 
 # 2021
 
-## September
+### December 3rd
+
+- Updated:
+  - Redstone Ore
+
+- Added:
+  - Deepslate Iron Ore
+  - Deepslate Redstone Ore
 
 ### November 20th
 
 - Updated:
-  - Iron ore
+  - Iron Ore
 
 ### September 30th
 
